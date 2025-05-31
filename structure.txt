@@ -1,0 +1,21 @@
+.
+├── ai.js
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── src
+│   ├── App.jsx
+│   ├── assets
+│   │   └── chef-claude-icon.png
+│   ├── components
+│   │   ├── ClaudeRecipe.jsx
+│   │   ├── Header.jsx
+│   │   ├── IngredientsList.jsx
+│   │   └── Main.jsx
+│   ├── index.css
+│   └── index.jsx
+├── structure.txt
+└── vite.config.js
+
+4 directories, 15 files
